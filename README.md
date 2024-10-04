@@ -1,1 +1,1 @@
-# DSA-with-Java
+I'm actively solving Data Structures and Algorithms (DSA) problems on LeetCode to strengthen my problem-solving skills. This repository serves as a collection of my solutions across various topics such as arrays, linked lists, trees, graphs, dynamic programming, and more. My goal is to consistently tackle new challenges while optimizing for both time and space complexity. Feel free to explore the code and share your insights!
